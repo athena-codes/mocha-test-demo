@@ -16,7 +16,7 @@ describe('App', function(){
         assert.typeOf(sayHelloResult, 'string')
  })
     it('sayHello should return hello.', function() {
-    // let result = app.sayHello()
+    let result = app.sayHello()
     //    assert.equal(app(), 'Hello!')
         assert.equal(sayHelloResult, 'Hello!')
     })
