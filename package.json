@@ -1,0 +1,16 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "athena",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chair": "^0.0.0",
+    "mocha": "^10.0.0"
+  }
+}
